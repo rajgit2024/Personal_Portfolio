@@ -29,7 +29,7 @@ const technologies = [
   {
     name: "Web Technologies",
     icon: <Globe className="h-6 w-6" />,
-    skills: ["HTML5", "CSS3", "JavaScript", "Responsive Design", "SEO"],
+    skills: ["HTML5", "CSS5", "JavaScript", "Responsive Design", "SEO"],
     position: "left",
     color: "green",
   },
